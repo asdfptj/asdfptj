@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=asdfptj&show_icons=true)
+
 <!--
 **asdfptj/asdfptj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
