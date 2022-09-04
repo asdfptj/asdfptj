@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=A$DFPTJ&fontAlign=30&fontSize=30&desc=Hi%20there👋&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=A$DFPTJ&width=10&fontAlign=30&fontSize=30&desc=Hi%20there👋&descAlign=50&descAlignY=50&theme=radical)
 
 ![asdfptj's github stats](https://github-readme-stats.vercel.app/api?username=asdfptj&show_icons=true)
 
