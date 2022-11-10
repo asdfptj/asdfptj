@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdfptj)
 
+<a href="https://opgc.me/#/users/asdfptj" target="_blank"><img src="https://api.opgc.me/githubs/users/asdfptj/tag/?theme=basic" /></a>
+
 <!--
 **asdfptj/asdfptj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
