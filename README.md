@@ -1,8 +1,6 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=A$DFPTJ&width=10&fontAlign=30&fontSize=30&desc=Hi%20there👋&descAlign=50&descAlignY=50&theme=radical)
 
 ![asdfptj's github stats](https://github-readme-stats.vercel.app/api?username=asdfptj&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asdfptj)
 
 <a href="https://opgc.me/#/users/asdfptj" target="_blank"><img src="https://api.opgc.me/githubs/users/asdfptj/tag/?theme=basic" /></a>
 
